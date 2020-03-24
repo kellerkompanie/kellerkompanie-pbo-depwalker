@@ -1,2 +1,2 @@
 # kellerkompanie-pbo-depwalker
-Extract dependencies from .pbo files.
+Extract dependencies from Arma3 .pbo files.
